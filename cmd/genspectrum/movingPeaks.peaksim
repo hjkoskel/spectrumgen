@@ -1,0 +1,24 @@
+#Moving peaks
+405.4 510 650 710 405   G   10  0.02    #mercury	404.656
+436.6   G   10  0.2                     #mercury	435.833
+487.7   G   10  0.1                     #terbium from Tb3+	~485 to 490
+542.4   G   10  0.6                     #terbium from Tb3+	~543 to 544
+546.5   G   10  0.75                    #mercury	546.074
+577.7   G   10  0.2                     #likely terbium from Tb3+ or mercury	576.960 for Hg or ~578 for Tb
+580.2   G   10  0.25    #mercury or terbium from Tb3+	579.066 for Hg or ~580 for Tb
+584.0   G   10  0.3 #possibly terbium from Tb3+ or europium in Eu+3:Y2O3	~580
+587.6   G   10  0.31#likely europium in Eu+3:Y2O3	~587
+593.4 450   G   10  0.26 0.50 0.9 1.0 0.3   #likely europium in Eu+3:Y2O3	~593
+599.7   G   10  0.17    #likely europium in Eu+3:Y2O3	~598
+611.6   G   10  0.73    #europium in Eu+3:Y2O3	~611
+625.7   G   10  0.2 #likely terbium from Tb3+	~625
+631.1   G   10  0.21    #likely europium in Eu+3:Y2O3	~630
+650.8   G   10  0.05    #likely europium in Eu+3:Y2O3	~650
+662.6   G   10  0.032    #likely europium in Eu+3:Y2O3	~661
+687.7   G   10  0.030#likely europium in Eu+3:Y2O3	~687-688
+693.7   G   10  0.027#likely europium in Eu+3:Y2O3	~693
+707   G   10  0.33  #likely europium in Eu+3:Y2O3	~707 and ~709
+709   G   10  0.32  #likely europium in Eu+3:Y2O3	~707 and ~709
+712.3   G   10  0.01    #likely europium in Eu+3:Y2O3	~712
+760.0   G   10  0.01    #likely argon	758.9315 or 763.5106 (??)
+811.0   G   10  0.01    #likely argon	811.531
